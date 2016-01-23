@@ -5,4 +5,8 @@ public class HelloWorld {
 	System.out.println("HelloWorld--second");
 	System.out.println("but i am fuck");
     }
+
+    public void printHW(){
+    
+    }
 }
