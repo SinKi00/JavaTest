@@ -7,6 +7,6 @@ public class HelloWorld {
     }
 
     public void printHW(){
-    
+        System.out.println("123"); 
     }
 }
